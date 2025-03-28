@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h2 {
+    color: #4a4a4a;
+}
+
+form {
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+audio {
+    width: 100%;
+}
